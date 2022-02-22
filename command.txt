@@ -1,0 +1,3 @@
+- yarn create next-app [nome]
+
+- yarn add typescript @types/react @types/node -D
