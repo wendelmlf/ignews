@@ -1,3 +1,7 @@
 - yarn create next-app [nome]
 
 - yarn add typescript @types/react @types/node -D
+
+token: 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:token
+
+- yarn add react-icons //icone do github
